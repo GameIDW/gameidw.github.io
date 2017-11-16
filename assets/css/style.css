@@ -306,7 +306,8 @@ i.fa-heart{
     padding-bottom: 60px;
 }
 .generic-p{
-    padding-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 5px;
     font-size: 18px;
 
 }
@@ -544,7 +545,7 @@ textarea{
 
     }
     .generic{
-    padding-top: 15px;
+    padding-top: 5px;
     }
     .generic img{
     padding-top: 10px;
